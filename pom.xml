@@ -10,6 +10,9 @@
     <version>1.0.0-SNAPSHOT</version>
 
     <modules>
+        <module>netty-sockets-core</module>
+        <module>netty-sockets-starter</module>
+        <module>samples</module>
     </modules>
 
     <properties>
